@@ -5,9 +5,6 @@
 
 - <img width="25px" src="Stack_Overflow_icon.svg" /> [Any questions for me?](https://stackoverflow.com/users/2987755/dkb)
 
-------
-
-
 - :zap: GitHub Stats
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbhagat&count_private=true&show_icons=true&theme=radical)
