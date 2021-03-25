@@ -7,9 +7,9 @@
 
 - :zap: GitHub Stats
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbhagat&count_private=true&show_icons=true&theme=radical)
+  ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbhagat&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbhagat&layout=compact&theme=radical)](https://github.com/dineshbhagat)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbhagat&layout=compact&theme=radical)](https://github.com/dineshbhagat)
 
 <!--
 **dineshbhagat/dineshbhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
