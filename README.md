@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dinesh
+# Hi there <img width="50px" src="https://raw.githubusercontent.com/dineshbhagat/dineshbhagat/master/wave.gif" />, I'm Dinesh
 
 
 - ⚡ [Fun fact](https://sourcerer.io/dineshbhagat)
