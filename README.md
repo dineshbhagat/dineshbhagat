@@ -3,7 +3,7 @@
 
 - ⚡ [Fun fact](https://sourcerer.io/dineshbhagat)
 
-- <img width="40px" src="Stack_Overflow_icon.svg" /> [Any questions for me?](https://stackoverflow.com/users/2987755/dkb)
+- <img width="25px" src="Stack_Overflow_icon.svg" /> [Any questions for me?](https://stackoverflow.com/users/2987755/dkb)
 
 ------
 
