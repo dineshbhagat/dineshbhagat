@@ -11,6 +11,16 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbhagat&layout=compact&theme=radical)](https://github.com/dineshbhagat)
 
+
+
+
+  <p align="right">
+    <a href="http://hits.dwyl.com/dineshbhagat/dineshbhagat">
+      <img align="center" src="http://hits.dwyl.com/dineshbhagat/dineshbhagat.svg">
+    </a>
+  </p>
+
+
 <!--
 **dineshbhagat/dineshbhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
