@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Dinesh
 
 
-- ⚡ Fun fact:  [here](https://sourcerer.io/dineshbhagat)
+- ⚡ [Fun fact](https://sourcerer.io/dineshbhagat)
 
 
 ------
 
-#### :zap: GitHub Stats
+
+- :zap: GitHub Stats
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbhagat&count_private=true&show_icons=true&theme=radical)
 
