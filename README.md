@@ -3,7 +3,7 @@
 
 - ⚡ [Fun fact](https://sourcerer.io/dineshbhagat)
 
-- <a href="https://stackoverflow.com/users/2987755/dkb"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2987755?logo=StackOverflow&color=important&label=StackOverflow" /></a> [Any questions for me?](https://stackoverflow.com/users/2987755/dkb)
+- <a href="https://stackoverflow.com/users/2987755/dkb"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2987755?logo=StackOverflow&color=important&label=StackOverflow" /></a> Any questions for me?
 
 - :zap: GitHub Stats
 
