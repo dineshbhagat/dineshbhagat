@@ -1,15 +1,12 @@
 # Hi there <img width="50px" src="https://raw.githubusercontent.com/dineshbhagat/dineshbhagat/master/wave.gif" />, I'm Dinesh
 
-
 - ⚡ [Fun fact](https://sourcerer.io/dineshbhagat)
 
-- <a href="https://stackoverflow.com/users/2987755/dkb"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2987755?logo=StackOverflow&color=important&label=StackOverflow" /></a> Any questions for me?
+- 🤔 <a href="https://stackoverflow.com/users/2987755/dkb"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2987755?logo=StackOverflow&color=important&label=StackOverflow" alt="stackoverflow profile" title="if you have any questions, happy 🙂 to help on ☕ related technologies"/></a>
 
-- :zap: GitHub Stats
+- :zap: GitHub stats.    
+  ![](https://github-readme-stats.vercel.app/api?username=dineshbhagat&count_private=false&show_icons=true&theme=radical)      [![](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbhagat&layout=compact&theme=radical)](https://github.com/dineshbhagat)   
 
-  ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbhagat&count_private=true&show_icons=true&theme=radical)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbhagat&layout=compact&theme=radical)](https://github.com/dineshbhagat)
 
 ![Visitor Count](https://profile-counter.glitch.me/{dineshbhagat}/count.svg)
 
